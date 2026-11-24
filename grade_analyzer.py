@@ -1,4 +1,4 @@
-print("Student Grade Analyzer")
+print("Python Grade Analysis Tool")
 
 student = "Alex"
 grade = 82
