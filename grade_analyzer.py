@@ -1,4 +1,4 @@
-print("Student Grade Analyzer")
+print("Student Performance Analyzer")
 
 student = "Alex"
 grade = 82
